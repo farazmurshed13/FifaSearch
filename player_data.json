@@ -1,6 +1,8 @@
 [
   {
     "name": "Lionel Messi",
+    "tag": "Lionel Messi",
+    "tag2": "L. Messi",
     "age": "32",
     "ovr": "94",
     "pot": "94",
@@ -9,6 +11,8 @@
   },
   {
     "name": "C. Ronaldo dos Santos Aveiro",
+    "tag": "C. Ronaldo dos Santos Aveiro",
+    "tag2": "Cristiano Ronaldo",
     "age": "34",
     "ovr": "93",
     "pot": "93",
@@ -17,6 +21,8 @@
   },
   {
     "name": "Neymar da Silva Santos Jr.",
+    "tag": "Neymar da Silva Santos Jr.",
+    "tag2": "Neymar Jr",
     "age": "27",
     "ovr": "92",
     "pot": "92",
@@ -25,6 +31,8 @@
   },
   {
     "name": "Virgil van Dijk",
+    "tag": "Virgil van Dijk",
+    "tag2": "V. van Dijk",
     "age": "27",
     "ovr": "91",
     "pot": "92",
@@ -33,6 +41,8 @@
   },
   {
     "name": "Robert Lewandowski",
+    "tag": "Robert Lewandowski",
+    "tag2": "R. Lewandowski",
     "age": "30",
     "ovr": "91",
     "pot": "91",
@@ -41,6 +51,8 @@
   },
   {
     "name": "Jan Oblak",
+    "tag": "Jan Oblak",
+    "tag2": "J. Oblak",
     "age": "26",
     "ovr": "91",
     "pot": "93",
@@ -49,6 +61,8 @@
   },
   {
     "name": "Kevin De Bruyne",
+    "tag": "Kevin De Bruyne",
+    "tag2": "K. De Bruyne",
     "age": "28",
     "ovr": "91",
     "pot": "91",
@@ -57,6 +71,8 @@
   },
   {
     "name": "Eden Hazard",
+    "tag": "Eden Hazard",
+    "tag2": "E. Hazard",
     "age": "28",
     "ovr": "91",
     "pot": "91",
@@ -65,6 +81,8 @@
   },
   {
     "name": "Sadio Man\u00e9",
+    "tag": "Sadio Mane",
+    "tag2": "S. Mane",
     "age": "27",
     "ovr": "90",
     "pot": "90",
@@ -73,6 +91,8 @@
   },
   {
     "name": "Alisson Ramses Becker",
+    "tag": "Alisson Ramses Becker",
+    "tag2": "Alisson",
     "age": "26",
     "ovr": "90",
     "pot": "91",
@@ -81,6 +101,8 @@
   },
   {
     "name": "Mohamed Salah",
+    "tag": "Mohamed Salah",
+    "tag2": "M. Salah",
     "age": "27",
     "ovr": "90",
     "pot": "90",
@@ -89,6 +111,8 @@
   },
   {
     "name": "Marc-Andr\u00e9 ter Stegen",
+    "tag": "Marc-Andre ter Stegen",
+    "tag2": "M. ter Stegen",
     "age": "27",
     "ovr": "90",
     "pot": "93",
@@ -97,6 +121,8 @@
   },
   {
     "name": "Sergio Ag\u00fcero",
+    "tag": "Sergio Aguero",
+    "tag2": "S. Aguero",
     "age": "31",
     "ovr": "90",
     "pot": "90",
@@ -105,6 +131,8 @@
   },
   {
     "name": "Kylian Mbapp\u00e9",
+    "tag": "Kylian Mbappe",
+    "tag2": "K. Mbappe",
     "age": "20",
     "ovr": "89",
     "pot": "95",
@@ -113,6 +141,8 @@
   },
   {
     "name": "Harry Kane",
+    "tag": "Harry Kane",
+    "tag2": "H. Kane",
     "age": "25",
     "ovr": "89",
     "pot": "91",
@@ -121,6 +151,8 @@
   },
   {
     "name": "Kalidou Koulibaly",
+    "tag": "Kalidou Koulibaly",
+    "tag2": "K. Koulibaly",
     "age": "28",
     "ovr": "88",
     "pot": "90",
@@ -129,6 +161,8 @@
   },
   {
     "name": "Ederson Santana de Moraes",
+    "tag": "Ederson Santana de Moraes",
+    "tag2": "Ederson",
     "age": "25",
     "ovr": "88",
     "pot": "91",
@@ -137,6 +171,8 @@
   },
   {
     "name": "Raheem Sterling",
+    "tag": "Raheem Sterling",
+    "tag2": "R. Sterling",
     "age": "24",
     "ovr": "88",
     "pot": "90",
@@ -145,6 +181,8 @@
   },
   {
     "name": "Bernardo Mota Carvalho e Silva",
+    "tag": "Bernardo Mota Carvalho e Silva",
+    "tag2": "Bernardo Silva",
     "age": "24",
     "ovr": "87",
     "pot": "90",
@@ -153,6 +191,8 @@
   },
   {
     "name": "Joshua Kimmich",
+    "tag": "Joshua Kimmich",
+    "tag2": "J. Kimmich",
     "age": "24",
     "ovr": "87",
     "pot": "90",
@@ -161,6 +201,8 @@
   },
   {
     "name": "Paulo Dybala",
+    "tag": "Paulo Dybala",
+    "tag2": "P. Dybala",
     "age": "25",
     "ovr": "87",
     "pot": "90",
@@ -169,6 +211,8 @@
   },
   {
     "name": "Aymeric Laporte",
+    "tag": "Aymeric Laporte",
+    "tag2": "A. Laporte",
     "age": "25",
     "ovr": "87",
     "pot": "90",
@@ -177,6 +221,8 @@
   },
   {
     "name": "Cl\u00e9ment Lenglet",
+    "tag": "Clement Lenglet",
+    "tag2": "C. Lenglet",
     "age": "24",
     "ovr": "86",
     "pot": "90",
@@ -185,6 +231,8 @@
   },
   {
     "name": "Leroy San\u00e9",
+    "tag": "Leroy Sane",
+    "tag2": "L. Sane",
     "age": "23",
     "ovr": "86",
     "pot": "90",
@@ -193,6 +241,8 @@
   },
   {
     "name": "Jadon Sancho",
+    "tag": "Jadon Sancho",
+    "tag2": "J. Sancho",
     "age": "19",
     "ovr": "86",
     "pot": "94",
@@ -201,6 +251,8 @@
   },
   {
     "name": "Frenkie de Jong",
+    "tag": "Frenkie de Jong",
+    "tag2": "F. de Jong",
     "age": "22",
     "ovr": "86",
     "pot": "92",
@@ -209,6 +261,8 @@
   },
   {
     "name": "Milan \u0160kriniar",
+    "tag": "Milan Skriniar",
+    "tag2": "M. Skriniar",
     "age": "24",
     "ovr": "86",
     "pot": "90",
@@ -217,6 +271,8 @@
   },
   {
     "name": "Marcos Ao\u00e1s Corr\u00eaa",
+    "tag": "Marcos Aoas Correa",
+    "tag2": "Marquinhos",
     "age": "25",
     "ovr": "86",
     "pot": "90",
@@ -225,6 +281,8 @@
   },
   {
     "name": "Arthur Henrique Ramos Oliveira Melo",
+    "tag": "Arthur Henrique Ramos Oliveira Melo",
+    "tag2": "Arthur",
     "age": "22",
     "ovr": "85",
     "pot": "90",
@@ -233,6 +291,8 @@
   },
   {
     "name": "Sergej Milinkovi\u0107-Savi\u0107",
+    "tag": "Sergej Milinkovic-Savic",
+    "tag2": "S. Milinkovic-Savic",
     "age": "24",
     "ovr": "85",
     "pot": "90",
@@ -241,6 +301,8 @@
   },
   {
     "name": "Trent Alexander-Arnold",
+    "tag": "Trent Alexander-Arnold",
+    "tag2": "T. Alexander-Arnold",
     "age": "20",
     "ovr": "85",
     "pot": "90",
@@ -249,6 +311,8 @@
   },
   {
     "name": "Gianluigi Donnarumma",
+    "tag": "Gianluigi Donnarumma",
+    "tag2": "G. Donnarumma",
     "age": "20",
     "ovr": "85",
     "pot": "92",
@@ -257,6 +321,8 @@
   },
   {
     "name": "Niklas S\u00fcle",
+    "tag": "Niklas Sule",
+    "tag2": "N. Sule",
     "age": "23",
     "ovr": "85",
     "pot": "90",
@@ -265,6 +331,8 @@
   },
   {
     "name": "Matthijs de Ligt",
+    "tag": "Matthijs de Ligt",
+    "tag2": "M. de Ligt",
     "age": "19",
     "ovr": "85",
     "pot": "92",
@@ -273,6 +341,8 @@
   },
   {
     "name": "Kai Havertz",
+    "tag": "Kai Havertz",
+    "tag2": "K. Havertz",
     "age": "20",
     "ovr": "84",
     "pot": "93",
@@ -281,6 +351,8 @@
   },
   {
     "name": "Lautaro Mart\u00ednez",
+    "tag": "Lautaro Martinez",
+    "tag2": "L. Martinez",
     "age": "21",
     "ovr": "84",
     "pot": "91",
@@ -289,6 +361,8 @@
   },
   {
     "name": "Ousmane Demb\u00e9l\u00e9",
+    "tag": "Ousmane Dembele",
+    "tag2": "O. Dembele",
     "age": "22",
     "ovr": "83",
     "pot": "90",
@@ -297,6 +371,8 @@
   },
   {
     "name": "Federico Valverde",
+    "tag": "Federico Valverde",
+    "tag2": "F. Valverde",
     "age": "20",
     "ovr": "82",
     "pot": "90",
@@ -305,6 +381,8 @@
   },
   {
     "name": "Jo\u00e3o F\u00e9lix Sequeira",
+    "tag": "Joao Felix Sequeira",
+    "tag2": "Joao Felix",
     "age": "19",
     "ovr": "80",
     "pot": "93",
@@ -313,6 +391,8 @@
   },
   {
     "name": "Erling Braut Haaland",
+    "tag": "Erling Braut Haaland",
+    "tag2": "E. Haaland",
     "age": "18",
     "ovr": "80",
     "pot": "90",
@@ -321,6 +401,8 @@
   },
   {
     "name": "Vin\u00edcius Jos\u00e9 de Oliveira J\u00fanior",
+    "tag": "Vinicius Jose de Oliveira Junior",
+    "tag2": "Vinicius Jr.",
     "age": "18",
     "ovr": "79",
     "pot": "92",
@@ -329,6 +411,8 @@
   },
   {
     "name": "Rodrygo Silva de Goes",
+    "tag": "Rodrygo Silva de Goes",
+    "tag2": "Rodrygo",
     "age": "18",
     "ovr": "78",
     "pot": "91",
@@ -337,6 +421,8 @@
   },
   {
     "name": "Sandro Tonali",
+    "tag": "Sandro Tonali",
+    "tag2": "S. Tonali",
     "age": "19",
     "ovr": "77",
     "pot": "91",
@@ -345,6 +431,8 @@
   },
   {
     "name": "Anssumane Fati",
+    "tag": "Anssumane Fati",
+    "tag2": "Ansu Fati",
     "age": "16",
     "ovr": "73",
     "pot": "90",
@@ -353,6 +441,8 @@
   },
   {
     "name": "Reinier Jesus Carvalho",
+    "tag": "Reinier Jesus Carvalho",
+    "tag2": "Reinier",
     "age": "17",
     "ovr": "72",
     "pot": "90",
