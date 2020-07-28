@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Lionel Messi",
+    "age": "32",
+    "ovr": "94",
+    "pot": "94",
+    "team": "FC Barcelona",
+    "end": "2021"
+  },
+  {
+    "name": "C. Ronaldo dos Santos Aveiro",
+    "age": "34",
+    "ovr": "93",
+    "pot": "93",
+    "team": "Juventus",
+    "end": "2022"
+  },
+  {
+    "name": "Neymar da Silva Santos Jr.",
+    "age": "27",
+    "ovr": "92",
+    "pot": "92",
+    "team": "Paris Saint-Germain",
+    "end": "2022"
+  },
+  {
+    "name": "Virgil van Dijk",
+    "age": "27",
+    "ovr": "91",
+    "pot": "92",
+    "team": "Liverpool",
+    "end": "2023"
+  },
+  {
+    "name": "Robert Lewandowski",
+    "age": "30",
+    "ovr": "91",
+    "pot": "91",
+    "team": "FC Bayern M\u00fcnchen",
+    "end": "2023"
+  },
+  {
+    "name": "Jan Oblak",
+    "age": "26",
+    "ovr": "91",
+    "pot": "93",
+    "team": "Atl\u00e9tico Madrid",
+    "end": "2023"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "age": "28",
+    "ovr": "91",
+    "pot": "91",
+    "team": "Manchester City",
+    "end": "2023"
+  },
+  {
+    "name": "Eden Hazard",
+    "age": "28",
+    "ovr": "91",
+    "pot": "91",
+    "team": "Real Madrid",
+    "end": "2024"
+  },
+  {
+    "name": "Sadio Man\u00e9",
+    "age": "27",
+    "ovr": "90",
+    "pot": "90",
+    "team": "Liverpool",
+    "end": "2023"
+  },
+  {
+    "name": "Alisson Ramses Becker",
+    "age": "26",
+    "ovr": "90",
+    "pot": "91",
+    "team": "Liverpool",
+    "end": "2024"
+  },
+  {
+    "name": "Mohamed Salah",
+    "age": "27",
+    "ovr": "90",
+    "pot": "90",
+    "team": "Liverpool",
+    "end": "2023"
+  },
+  {
+    "name": "Marc-Andr\u00e9 ter Stegen",
+    "age": "27",
+    "ovr": "90",
+    "pot": "93",
+    "team": "FC Barcelona",
+    "end": "2022"
+  },
+  {
+    "name": "Sergio Ag\u00fcero",
+    "age": "31",
+    "ovr": "90",
+    "pot": "90",
+    "team": "Manchester City",
+    "end": "2021"
+  },
+  {
+    "name": "Kylian Mbapp\u00e9",
+    "age": "20",
+    "ovr": "89",
+    "pot": "95",
+    "team": "Paris Saint-Germain",
+    "end": "2022"
+  },
+  {
+    "name": "Harry Kane",
+    "age": "25",
+    "ovr": "89",
+    "pot": "91",
+    "team": "Tottenham Hotspur",
+    "end": "2024"
+  },
+  {
+    "name": "Kalidou Koulibaly",
+    "age": "28",
+    "ovr": "88",
+    "pot": "90",
+    "team": "Napoli",
+    "end": "2023"
+  },
+  {
+    "name": "Ederson Santana de Moraes",
+    "age": "25",
+    "ovr": "88",
+    "pot": "91",
+    "team": "Manchester City",
+    "end": "2024"
+  },
+  {
+    "name": "Raheem Sterling",
+    "age": "24",
+    "ovr": "88",
+    "pot": "90",
+    "team": "Manchester City",
+    "end": "2023"
+  },
+  {
+    "name": "Bernardo Mota Carvalho e Silva",
+    "age": "24",
+    "ovr": "87",
+    "pot": "90",
+    "team": "Manchester City",
+    "end": "2024"
+  },
+  {
+    "name": "Joshua Kimmich",
+    "age": "24",
+    "ovr": "87",
+    "pot": "90",
+    "team": "FC Bayern M\u00fcnchen",
+    "end": "2023"
+  },
+  {
+    "name": "Paulo Dybala",
+    "age": "25",
+    "ovr": "87",
+    "pot": "90",
+    "team": "Juventus",
+    "end": "2022"
+  },
+  {
+    "name": "Aymeric Laporte",
+    "age": "25",
+    "ovr": "87",
+    "pot": "90",
+    "team": "Manchester City",
+    "end": "2024"
+  },
+  {
+    "name": "Cl\u00e9ment Lenglet",
+    "age": "24",
+    "ovr": "86",
+    "pot": "90",
+    "team": "FC Barcelona",
+    "end": "2023"
+  },
+  {
+    "name": "Leroy San\u00e9",
+    "age": "23",
+    "ovr": "86",
+    "pot": "90",
+    "team": "Manchester City",
+    "end": "2021"
+  },
+  {
+    "name": "Jadon Sancho",
+    "age": "19",
+    "ovr": "86",
+    "pot": "94",
+    "team": "Borussia Dortmund",
+    "end": "2022"
+  },
+  {
+    "name": "Frenkie de Jong",
+    "age": "22",
+    "ovr": "86",
+    "pot": "92",
+    "team": "FC Barcelona",
+    "end": "2024"
+  },
+  {
+    "name": "Milan \u0160kriniar",
+    "age": "24",
+    "ovr": "86",
+    "pot": "90",
+    "team": "Inter",
+    "end": "2023"
+  },
+  {
+    "name": "Marcos Ao\u00e1s Corr\u00eaa",
+    "age": "25",
+    "ovr": "86",
+    "pot": "90",
+    "team": "Paris Saint-Germain",
+    "end": "2024"
+  },
+  {
+    "name": "Arthur Henrique Ramos Oliveira Melo",
+    "age": "22",
+    "ovr": "85",
+    "pot": "90",
+    "team": "FC Barcelona",
+    "end": "2024"
+  },
+  {
+    "name": "Sergej Milinkovi\u0107-Savi\u0107",
+    "age": "24",
+    "ovr": "85",
+    "pot": "90",
+    "team": "Lazio",
+    "end": "2023"
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "age": "20",
+    "ovr": "85",
+    "pot": "90",
+    "team": "Liverpool",
+    "end": "2024"
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "age": "20",
+    "ovr": "85",
+    "pot": "92",
+    "team": "Milan",
+    "end": "2021"
+  },
+  {
+    "name": "Niklas S\u00fcle",
+    "age": "23",
+    "ovr": "85",
+    "pot": "90",
+    "team": "FC Bayern M\u00fcnchen",
+    "end": "2022"
+  },
+  {
+    "name": "Matthijs de Ligt",
+    "age": "19",
+    "ovr": "85",
+    "pot": "92",
+    "team": "Juventus",
+    "end": "2024"
+  },
+  {
+    "name": "Kai Havertz",
+    "age": "20",
+    "ovr": "84",
+    "pot": "93",
+    "team": "Bayer 04 Leverkusen",
+    "end": "2022"
+  },
+  {
+    "name": "Lautaro Mart\u00ednez",
+    "age": "21",
+    "ovr": "84",
+    "pot": "91",
+    "team": "Inter",
+    "end": "2023"
+  },
+  {
+    "name": "Ousmane Demb\u00e9l\u00e9",
+    "age": "22",
+    "ovr": "83",
+    "pot": "90",
+    "team": "FC Barcelona",
+    "end": "2022"
+  },
+  {
+    "name": "Federico Valverde",
+    "age": "20",
+    "ovr": "82",
+    "pot": "90",
+    "team": "Real Madrid",
+    "end": "2025"
+  },
+  {
+    "name": "Jo\u00e3o F\u00e9lix Sequeira",
+    "age": "19",
+    "ovr": "80",
+    "pot": "93",
+    "team": "Atl\u00e9tico Madrid",
+    "end": "2026"
+  },
+  {
+    "name": "Erling Braut Haaland",
+    "age": "18",
+    "ovr": "80",
+    "pot": "90",
+    "team": "Borussia Dortmund",
+    "end": "2024"
+  },
+  {
+    "name": "Vin\u00edcius Jos\u00e9 de Oliveira J\u00fanior",
+    "age": "18",
+    "ovr": "79",
+    "pot": "92",
+    "team": "Real Madrid",
+    "end": "2025"
+  },
+  {
+    "name": "Rodrygo Silva de Goes",
+    "age": "18",
+    "ovr": "78",
+    "pot": "91",
+    "team": "Real Madrid",
+    "end": "2025"
+  },
+  {
+    "name": "Sandro Tonali",
+    "age": "19",
+    "ovr": "77",
+    "pot": "91",
+    "team": "Brescia",
+    "end": "2021"
+  },
+  {
+    "name": "Anssumane Fati",
+    "age": "16",
+    "ovr": "73",
+    "pot": "90",
+    "team": "FC Barcelona",
+    "end": "2022"
+  },
+  {
+    "name": "Reinier Jesus Carvalho",
+    "age": "17",
+    "ovr": "72",
+    "pot": "90",
+    "team": "Real Madrid",
+    "end": "2026"
+  }
+]
