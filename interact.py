@@ -30,10 +30,10 @@ def search(key, team=None):
         print("No results found")
     # option to narrow results by team if specified, and then print player info
     elif team is not None:
-        reduced = dict()
+        reduced = []
         # narrow scope
         for player in data:
-            if team in player['team']:
+            if team in player['team_tag']:
                 reduced.append(player)
         display_all(reduced)
     # otherwise, print player info for all in data
@@ -45,10 +45,16 @@ def search(key, team=None):
 def main():
     while True:
         # prompt user to search for players
-        keyword = input("Search player name: \n").lower()
+        entry = input("Search: \n").lower().split(', ')
+        keyword = entry[0]
+
         # end prompter
         if keyword == "qq":
             break
+        # allow for team specification as well
+        elif len(entry) > 1:
+            team = entry[1]
+            search(keyword, team)
         else:
             search(keyword)
 

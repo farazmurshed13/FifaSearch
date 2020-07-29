@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup as bs
 import json
+import unidecode
 
 
 # return json with SoFifa player data for specified search key
@@ -27,6 +28,8 @@ def get_player_data(key):
         # store team and contract end date
         d['team'] = row.select('.col-name')[1].text.strip()
         d['team'] = d['team'].split('\n')[0]
+        d['team_tag'] = d['team'].lower()
+        d['team_tag'] = unidecode.unidecode(d['team_tag'])
         d['end'] = row.select_one('.col-name .sub').text.strip()
         d['end'] = d['end'].split(' ')[-1]
 
