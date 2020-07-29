@@ -1,13 +1,13 @@
 import requests
 from bs4 import BeautifulSoup as bs
 import json
-import unidecode
 
 
-# return json with SoFifa player data
-def get_player_data():
+# return json with SoFifa player data for specified search key
+# results limited to first page of results on SoFifa
+def get_player_data(key):
     # request page and set up parser
-    url = 'https://sofifa.com/players?type=all&ptl=90'
+    url = 'https://sofifa.com/players?keyword=' + key
     r = requests.get(url)
     soup = bs(r.content, 'html.parser')
     rows = soup.select('tbody tr')
@@ -16,10 +16,8 @@ def get_player_data():
     data = []
     for row in rows:
         d = dict()
-        # store player name and searchable names
+        # store player name
         d['name'] = row.select_one('.col-name .tooltip')['data-tooltip'].strip()
-        d['tag'] = unidecode.unidecode(d['name'])
-        d['tag2'] = unidecode.unidecode(row.select_one('.col-name .tooltip .bp3-text-overflow-ellipsis').text.strip())
 
         # store age, overall rating, potential rating
         d['age'] = row.select_one('.col-ae').text.strip()
