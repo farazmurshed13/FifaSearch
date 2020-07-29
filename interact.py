@@ -2,6 +2,22 @@ import soFifaScraper as sFS
 import json as js
 
 
+# display info for all players in given data
+def display_all(results):
+    # no results found (reduced to empty dict)
+    if len(results) == 0:
+        print("No results found")
+    # only print # of results if more than 2 found
+    elif len(results) > 2:
+        print(str(len(results)) + ' result(s) found\n')
+    # otherwise, print player info
+    else:
+        for player in results:
+            rat = player['ovr'] + '/' + player['pot']
+            exp = ' (exp: ' + player['end'] + ')'
+            print(player['name'] + ', ' + player['age'] + ', ' + rat + ', ' + player['team'] + exp + '\n')
+
+
 # perform search
 def search(key, team=None):
     # store search results
@@ -12,25 +28,17 @@ def search(key, team=None):
     # no results found
     if len(data) == 0:
         print("No results found")
+    # option to narrow results by team if specified, and then print player info
+    elif team is not None:
+        reduced = dict()
+        # narrow scope
+        for player in data:
+            if team in player['team']:
+                reduced.append(player)
+        display_all(reduced)
+    # otherwise, print player info for all in data
     else:
-        # find and print results, if any found
-        if len(data) > 2:
-            print(str(len(data)) + ' result(s) found\n')
-        else:
-            c = 0
-            for player in data:
-                # option to narrow by team if specified
-                if team is None:
-                    rat = player['ovr'] + '/' + player['pot']
-                    exp = ' (exp: ' + player['end'] + ')'
-                    print(player['name'] + ', ' + player['age'] + ', ' + rat + ', ' + player['team'] + exp + '\n')
-                    c += 1
-                else:
-                    if team in player['team']:
-                        rat = player['ovr'] + '/' + player['pot']
-                        exp = ' (exp: ' + player['end'] + ')'
-                        print(player['name'] + ', ' + player['age'] + ', ' + rat + ', ' + player['team'] + exp)
-                        c += 1
+        display_all(data)
 
 
 # prompt user
