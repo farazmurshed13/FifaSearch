@@ -1,4 +1,4 @@
-import soFifaScraper as sFS
+import scrape_fifa as sf
 import json as js
 
 
@@ -21,7 +21,7 @@ def display_all(results):
 # perform search
 def search(key, team=None):
     # store search results
-    bank = sFS.get_player_data(key)
+    bank = sf.get_player_data(key)
     with open(bank, 'r') as f:
         data = js.load(f)
 
