@@ -8,9 +8,10 @@ def display_all(results):
     if len(results) == 0:
         print("No results found")
     # only print # of results if more than 2 found
-    elif len(results) > 2:
+    elif len(results) > 1:
         print(str(len(results)) + ' result(s) found\n')
     # otherwise, print player info
+    # appendage: "Sent from your Twilio trial account - " (38 chars)
     else:
         for player in results:
             rat = player['ovr'] + '/' + player['pot']
