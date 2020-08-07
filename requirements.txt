@@ -1,0 +1,5 @@
+flask
+twilio
+bs4
+unidecode
+requests
