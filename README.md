@@ -3,7 +3,7 @@
 fifasearch lets a user find useful stats for any player in FIFA 20 within seconds
 
 Languages/Tools: Python, Flask, Twilio, Heroku
-Player Stats: Player name, team name, age, overall rating, potential rating, contract expiry date
+Player Stats: Player name, team name, age, overall rating, potential rating, contract expiry date        
 Source: sofifa.com
 
 **Application:**
