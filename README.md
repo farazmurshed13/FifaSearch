@@ -1,5 +1,3 @@
-**fifasearch:**
-
 fifasearch lets a user find useful stats for any player in FIFA 20 within seconds
 
 Languages/Tools: Python, Flask, Twilio, Heroku
@@ -18,7 +16,7 @@ Source: sofifa.com
     - Twilio message segments are charged separately, and outputs longer than 160 chars are split into multiple
       segments. To prevent this, format2 exists.
       
-**Notes**
+**Notes:**
 - User must have a Twilio phone number, connected to a webhook url that hosts Flask application (i.e. Heroku)
 - interact.py handles incoming sms and supplies response, using Flask and TwiML
 - scrape_fifa.py scrapes data from web source and stores in JSON file 
