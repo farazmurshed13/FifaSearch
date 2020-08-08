@@ -76,23 +76,3 @@ if __name__ == "__main__":
     app.run()
 
 
-# # prompt user
-# def main():
-#     while True:
-#         # prompt user to search for players
-#         entry = input("Search: \n").lower().split(', ')
-#         keyword = entry[0]
-#
-#         # end prompter
-#         if keyword == "qq":
-#             break
-#         # allow for team specification as well
-#         elif len(entry) > 1:
-#             team = entry[1]
-#             search(keyword, team)
-#         else:
-#             search(keyword)
-
-#
-# if __name__ == "__main__":
-#     main()
